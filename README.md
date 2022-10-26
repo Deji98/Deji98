@@ -1,12 +1,21 @@
-### 👋 Hi, I’m Adesina Adedeji
 
-###🚀 About Me
+# Deji98/README.md
+
+👋 Hi, I’m Adesina Adedeji
+
+
+## 🚀 About Me
 I'm a passionate full-stack developer from Nigeria
 
-🔗 Links
-portfolio linkedin twitter
 
-Other Common Github Profile Sections
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://deji-portfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesina-adedeji-23163b217/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdesinaAdedej20)
+
+
+## Other Common Github Profile Sections
+
 🧠 I'm currently learning PHP
 
 👯‍♀️ I'm looking to collaborate on Frontend Projects
@@ -15,10 +24,6 @@ Other Common Github Profile Sections
 
 📫 How to reach me adesinaadedeji98@gmail.com
 
+
 ⚡️ Fun fact: I love animes!
-<!--
-**Deji98/Deji98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
