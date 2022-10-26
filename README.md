@@ -1,10 +1,5 @@
 ### 👋 Hi, I’m Adesina Adedeji
 
-<!--
-**Deji98/Deji98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 ###🚀 About Me
 I'm a passionate full-stack developer from Nigeria
 
@@ -21,3 +16,9 @@ Other Common Github Profile Sections
 📫 How to reach me adesinaadedeji98@gmail.com
 
 ⚡️ Fun fact: I love animes!
+<!--
+**Deji98/Deji98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
