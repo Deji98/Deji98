@@ -22,7 +22,7 @@ I'm a passionate full-stack developer from Nigeria
 
 💬 Ask me about React, NextJS, TailwindCSS
 
-📫 How to reach me adesinaadedeji98@gmail.com
+📫 How to reach me adesinaafelix98@gmail.com
 
 
 ⚡️ Fun fact: I love animes!
