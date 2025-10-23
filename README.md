@@ -16,13 +16,11 @@ I'm a passionate full-stack developer from Nigeria
 
 ## Other Common Github Profile Sections
 
-🧠 I'm currently learning PHP(wordpress)
-
 👯‍♀️ I'm looking to collaborate
 
-💬 Ask me about React, NextJS, TailwindCSS, PHP
+💬 Ask me about React, NextJS, TailwindCSS, PHP, wordpress 
 
-📫 How to reach me adesinaafelix98@gmail.com
+📫 How to reach me adesinafelix98@gmail.com
 
 
 ⚡️ Fun fact: I love animes!
